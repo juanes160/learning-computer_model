@@ -1,2 +1,2 @@
 # learning-computer_model
-Repositorio de aprendizaje
+Repositorio de aprendizaje cambios 
