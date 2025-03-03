@@ -10,6 +10,7 @@ mul=num1 * num2
 
 print("La suma de los numeros es: ", suma)
 print("La resta de los numeros es: ", resta)
+print("La resta 2 de los numeros es: ", resta)
 print("La division de los numeros es: ", div)
 print("La multiplicacion de los numeros es: ", mul)
 print("fin")
